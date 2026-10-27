@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}Tổng quan bài thực hành}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Bối cảnh và mục tiêu}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Yêu cầu chức năng}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Phạm vi triển khai}{1}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Phân tích và thiết kế}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Các tác nhân và luồng sử dụng}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Kiến trúc dữ liệu và giao diện}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Cấu trúc dự án}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Thiết kế dữ liệu JSON}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Cấu trúc một sản phẩm}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Phân bố dữ liệu}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Mô hình Kotlin}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Triển khai chức năng}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Đọc trực tiếp tệp JSON}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Tạo ArrayList, ArrayAdapter và setAdapter}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Lọc sản phẩm bằng Spinner}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Tìm kiếm độc lập với bộ lọc}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Mở Activity chi tiết}{8}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Đọc ảnh từ assets và hiển thị giao diện}{8}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Ảnh chụp màn hình và đối chiếu chức năng}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Danh sách ban đầu và lọc danh mục}{10}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Tìm kiếm có kết quả và không có kết quả}{11}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Màn hình chi tiết sản phẩm}{12}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Kiểm thử và đánh giá}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Môi trường}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Các trường hợp kiểm tra}{13}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Điểm đạt được và giới hạn}{13}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Kết luận}{13}{section.7}%
+\contentsline {section}{\numberline {A}Hướng dẫn biên dịch và mở báo cáo}{14}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Ứng dụng Android}{14}{subsection.A.1}%
+\contentsline {subsection}{\numberline {A.2}Báo cáo LaTeX}{14}{subsection.A.2}%

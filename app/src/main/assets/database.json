@@ -1,0 +1,242 @@
+[
+  {
+    "code": "SP001",
+    "name": "Nova X1 128GB",
+    "price": 6990000,
+    "category": "Điện thoại",
+    "image": "file:///android_asset/images/SP001.png",
+    "description": "Điện thoại màn hình 6,5 inch sắc nét, bộ nhớ 128GB và pin 5.000mAh. Phù hợp cho học tập, chụp ảnh và giải trí mỗi ngày."
+  },
+  {
+    "code": "SP002",
+    "name": "Nova X1 Pro 256GB",
+    "price": 9990000,
+    "category": "Điện thoại",
+    "image": "file:///android_asset/images/SP002.png",
+    "description": "Phiên bản Pro có màn hình AMOLED 120Hz, camera chính 50MP và bộ nhớ 256GB. Sạc nhanh giúp tiết kiệm thời gian."
+  },
+  {
+    "code": "SP003",
+    "name": "Pixelon A5 128GB",
+    "price": 5490000,
+    "category": "Điện thoại",
+    "image": "file:///android_asset/images/SP003.png",
+    "description": "Thiết kế gọn nhẹ với camera góc rộng, nhận diện khuôn mặt và thời lượng pin đủ dùng cả ngày."
+  },
+  {
+    "code": "SP004",
+    "name": "Pixelon A5 Plus 256GB",
+    "price": 7490000,
+    "category": "Điện thoại",
+    "image": "file:///android_asset/images/SP004.png",
+    "description": "Màn hình lớn 6,7 inch, loa kép và dung lượng lưu trữ rộng rãi cho ảnh, video và ứng dụng."
+  },
+  {
+    "code": "SP005",
+    "name": "Orion Z Fold 512GB",
+    "price": 24990000,
+    "category": "Điện thoại",
+    "image": "file:///android_asset/images/SP005.png",
+    "description": "Điện thoại gập với màn hình trong rộng rãi, hỗ trợ đa nhiệm và bút cảm ứng cho công việc linh hoạt."
+  },
+  {
+    "code": "SP006",
+    "name": "AstraBook 14",
+    "price": 12990000,
+    "category": "Máy tính",
+    "image": "file:///android_asset/images/SP006.png",
+    "description": "Laptop 14 inch mỏng nhẹ, RAM 16GB và SSD 512GB. Phù hợp cho văn phòng, học trực tuyến và di chuyển."
+  },
+  {
+    "code": "SP007",
+    "name": "AstraBook Air 13",
+    "price": 15990000,
+    "category": "Máy tính",
+    "image": "file:///android_asset/images/SP007.png",
+    "description": "Máy tính xách tay 13 inch có thân nhôm, bàn phím có đèn nền và pin lâu cho ngày làm việc bận rộn."
+  },
+  {
+    "code": "SP008",
+    "name": "Volt Gaming 15",
+    "price": 22990000,
+    "category": "Máy tính",
+    "image": "file:///android_asset/images/SP008.png",
+    "description": "Laptop chơi game màn hình 144Hz, tản nhiệt hai quạt và card đồ họa rời cho trải nghiệm mượt mà."
+  },
+  {
+    "code": "SP009",
+    "name": "StudioBook Pro 16",
+    "price": 28990000,
+    "category": "Máy tính",
+    "image": "file:///android_asset/images/SP009.png",
+    "description": "Màn hình 16 inch độ phân giải cao và hiệu năng mạnh cho chỉnh sửa ảnh, dựng video và lập trình."
+  },
+  {
+    "code": "SP010",
+    "name": "MiniDesk M2",
+    "price": 10990000,
+    "category": "Máy tính",
+    "image": "file:///android_asset/images/SP010.png",
+    "description": "Máy tính để bàn cỡ nhỏ, hoạt động êm và có nhiều cổng kết nối cho góc làm việc gọn gàng."
+  },
+  {
+    "code": "SP011",
+    "name": "Tai nghe WaveBuds S",
+    "price": 1190000,
+    "category": "Âm thanh",
+    "image": "file:///android_asset/images/SP011.png",
+    "description": "Tai nghe không dây nhỏ gọn với hộp sạc tiện lợi, điều khiển cảm ứng và chất âm cân bằng."
+  },
+  {
+    "code": "SP012",
+    "name": "Tai nghe WaveBuds Pro",
+    "price": 2490000,
+    "category": "Âm thanh",
+    "image": "file:///android_asset/images/SP012.png",
+    "description": "Tai nghe true wireless có chống ồn chủ động, chế độ xuyên âm và thời lượng nghe nhạc dài."
+  },
+  {
+    "code": "SP013",
+    "name": "Tai nghe chụp tai Sonic H7",
+    "price": 1890000,
+    "category": "Âm thanh",
+    "image": "file:///android_asset/images/SP013.png",
+    "description": "Đệm tai mềm, kết nối Bluetooth ổn định và micro tích hợp cho học tập hoặc làm việc từ xa."
+  },
+  {
+    "code": "SP014",
+    "name": "Loa Bluetooth Pulse Mini",
+    "price": 990000,
+    "category": "Âm thanh",
+    "image": "file:///android_asset/images/SP014.png",
+    "description": "Loa di động nhỏ gọn, chống nước nhẹ và phát nhạc rõ ràng cho các buổi gặp gỡ ngoài trời."
+  },
+  {
+    "code": "SP015",
+    "name": "Loa Bluetooth Pulse Max",
+    "price": 2990000,
+    "category": "Âm thanh",
+    "image": "file:///android_asset/images/SP015.png",
+    "description": "Loa công suất lớn với âm trầm mạnh, đèn LED và pin sạc phục vụ không gian giải trí tại nhà."
+  },
+  {
+    "code": "SP016",
+    "name": "Sạc nhanh Volt 30W",
+    "price": 390000,
+    "category": "Phụ kiện",
+    "image": "file:///android_asset/images/SP016.png",
+    "description": "Củ sạc USB-C công suất 30W, thiết kế nhỏ gọn và hỗ trợ sạc nhanh cho điện thoại hoặc máy tính bảng."
+  },
+  {
+    "code": "SP017",
+    "name": "Sạc dự phòng PowerGo 10000",
+    "price": 690000,
+    "category": "Phụ kiện",
+    "image": "file:///android_asset/images/SP017.png",
+    "description": "Pin dự phòng dung lượng 10.000mAh, có hai cổng sạc và màn hình hiển thị mức pin còn lại."
+  },
+  {
+    "code": "SP018",
+    "name": "Chuột không dây Click M3",
+    "price": 490000,
+    "category": "Phụ kiện",
+    "image": "file:///android_asset/images/SP018.png",
+    "description": "Chuột không dây cầm thoải mái, thao tác êm và kết nối nhanh với laptop hoặc máy tính để bàn."
+  },
+  {
+    "code": "SP019",
+    "name": "Bàn phím cơ KeyFlow 87",
+    "price": 1290000,
+    "category": "Phụ kiện",
+    "image": "file:///android_asset/images/SP019.png",
+    "description": "Bàn phím cơ 87 phím, đèn nền có thể điều chỉnh và kết cấu chắc chắn cho gõ văn bản hằng ngày."
+  },
+  {
+    "code": "SP020",
+    "name": "Cáp USB-C Flex 2m",
+    "price": 190000,
+    "category": "Phụ kiện",
+    "image": "file:///android_asset/images/SP020.png",
+    "description": "Cáp USB-C dài 2 mét với lớp bọc bền chắc, thuận tiện cho sạc và truyền dữ liệu."
+  },
+  {
+    "code": "SP021",
+    "name": "Đèn bàn Lumi LED",
+    "price": 790000,
+    "category": "Gia dụng",
+    "image": "file:///android_asset/images/SP021.png",
+    "description": "Đèn bàn LED có ba mức sáng, ánh sáng dịu và cần đèn linh hoạt cho góc học tập."
+  },
+  {
+    "code": "SP022",
+    "name": "Quạt mini Breeze USB",
+    "price": 450000,
+    "category": "Gia dụng",
+    "image": "file:///android_asset/images/SP022.png",
+    "description": "Quạt để bàn nhỏ gọn, ba tốc độ gió và cổng cấp nguồn USB phù hợp không gian cá nhân."
+  },
+  {
+    "code": "SP023",
+    "name": "Máy lọc không khí Pure A1",
+    "price": 3490000,
+    "category": "Gia dụng",
+    "image": "file:///android_asset/images/SP023.png",
+    "description": "Máy lọc không khí cho phòng ngủ, có bộ lọc nhiều lớp và chế độ hoạt động yên tĩnh."
+  },
+  {
+    "code": "SP024",
+    "name": "Máy xay Smoothie Go",
+    "price": 890000,
+    "category": "Gia dụng",
+    "image": "file:///android_asset/images/SP024.png",
+    "description": "Máy xay cầm tay tiện dụng với cốc mang đi, phù hợp chuẩn bị sinh tố hoặc đồ uống nhanh."
+  },
+  {
+    "code": "SP025",
+    "name": "Robot hút bụi CleanBot S",
+    "price": 5990000,
+    "category": "Gia dụng",
+    "image": "file:///android_asset/images/SP025.png",
+    "description": "Robot hút bụi tự động có cảm biến tránh vật cản và lịch dọn dẹp cho sàn nhà sạch sẽ."
+  },
+  {
+    "code": "SP026",
+    "name": "Balo Urban 20L",
+    "price": 590000,
+    "category": "Thời trang",
+    "image": "file:///android_asset/images/SP026.png",
+    "description": "Balo 20 lít có ngăn laptop riêng, quai đeo êm và chất liệu chống bám nước nhẹ."
+  },
+  {
+    "code": "SP027",
+    "name": "Túi đeo chéo Daily",
+    "price": 390000,
+    "category": "Thời trang",
+    "image": "file:///android_asset/images/SP027.png",
+    "description": "Túi đeo chéo gọn nhẹ với nhiều ngăn nhỏ để giữ điện thoại, ví và vật dụng cá nhân."
+  },
+  {
+    "code": "SP028",
+    "name": "Giày thể thao Move One",
+    "price": 1190000,
+    "category": "Thời trang",
+    "image": "file:///android_asset/images/SP028.png",
+    "description": "Giày thể thao đế êm, thiết kế thoáng khí cho đi bộ, tập luyện và hoạt động thường ngày."
+  },
+  {
+    "code": "SP029",
+    "name": "Kính mát Sunline",
+    "price": 490000,
+    "category": "Thời trang",
+    "image": "file:///android_asset/images/SP029.png",
+    "description": "Kính mát gọng nhẹ, tròng chống tia UV và kiểu dáng dễ phối với trang phục hằng ngày."
+  },
+  {
+    "code": "SP030",
+    "name": "Đồng hồ Classic M",
+    "price": 1490000,
+    "category": "Thời trang",
+    "image": "file:///android_asset/images/SP030.png",
+    "description": "Đồng hồ mặt tròn tối giản, dây đeo thoải mái và khả năng kháng nước khi rửa tay."
+  }
+]
